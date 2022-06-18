@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 1440px;
+    height: 995px;
+    position: relative;
+    background: white;
+}
+
+header .logo img {
+    position: absolute;
+    width: 267px;
+    height: 62px;
+    top: 72px;
+    left: 112px;
+    cursor: pointer;
+}
+
+header .tb {
+    position: absolute;
+    width: 240px;
+    height: 62px;
+    top: 77px;
+    left: 1080px;
+    background: #5457C1;
+    font-family: Mont;
+    font-weight: 800;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    color: #fff;
+    box-shadow: 0 5px 10px rgb(78, 78, 78);
+    border-radius: 4px;
+    border-style: none;
+    cursor: pointer;
+}
+
+header .header-top-right-vector {
+    position: absolute;
+    top: 163px;
+    left: 801px;
+}
+
+header .text h1 {
+    position: absolute;
+    width: 508px;
+    height: 165px;
+    font-family: Goldplay;
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 55.43px;
+    letter-spacing: 1px;
+    color: #023033;
+    top: 294px;
+    left: 120px;
+}
+
+header .text p {
+    position: absolute;
+    width: 447px;
+    height: 60px;
+    top: 486px;
+    left: 121px;
+    font-family: mont;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30.62px;
+    color: #3F4F50;
+}
+
+header .ubl {
+    position: absolute;
+    width: 240px;
+    height: 62px;
+    top: 636px;
+    left: 121px;
+    font-family: Mont;
+    font-weight: 800;
+    font-size: 15px;
+    color: #fff;
+    background-color: #5457C1;
+    letter-spacing: 1.5px;
+    border-radius: 4px;
+    border-style: none;
+    box-shadow: 0 5px 10px rgb(78, 78, 78);
+    cursor: pointer;
+}
+
+header .ubr {
+    position: absolute;
+    width: 88px;
+    height: 32px;
+    left: 395px;
+    top: 648px;
+    font-family: 'Goldplay Alt';
+    font-weight: 700;
+    font-size: 19px;
+    color: #033437;
+    border: none;
+    background: transparent;
+    border-bottom: 3px solid #0EE788;
+    border-radius: 1.5px;
+    cursor: pointer;
+}
+
+header .ubt {
+    position: absolute;
+    width: 211px;
+    height: 22px;
+    top: 711px;
+    left: 132px;
+    font-family: 'Mont';
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 0.03em;
+    color: #3F4F50;
+}
+
+header .header-top-img-vector {
+    position: absolute;
+    top: 239px;
+    left: 899px;
+}
+
+header .Header-img {
+    position: absolute;
+    top: 261.6px;
+    left: 697.55px;
+    border-radius: 55% 55% 55% 75%;
+    z-index: 1;
+    box-shadow: 1px 5px 10px 1px rgb(70, 70, 70);
+}
+
+header .header-under-img-vector {
+    position: absolute;
+    top: 503px;
+    left: 698px;
+}
+
+header .header-left-under-vector {
+    position: absolute;
+    top: 843px;
+    left: 32px;
+}
+
+header .header-under-right-vector {
+    position: absolute;
+    top: 838px;
+    left: 1128px;
+}
+
+header .under-left-corner {
+    position: absolute;
+    left: 1390px;
+    top: 959px;
+}
